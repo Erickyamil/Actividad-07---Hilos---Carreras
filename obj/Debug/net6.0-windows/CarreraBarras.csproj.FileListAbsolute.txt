@@ -1,0 +1,14 @@
+C:\Users\zS23017379\Documents\CarreraBarras\bin\Debug\net6.0-windows\CarreraBarras.exe
+C:\Users\zS23017379\Documents\CarreraBarras\bin\Debug\net6.0-windows\CarreraBarras.deps.json
+C:\Users\zS23017379\Documents\CarreraBarras\bin\Debug\net6.0-windows\CarreraBarras.runtimeconfig.json
+C:\Users\zS23017379\Documents\CarreraBarras\bin\Debug\net6.0-windows\CarreraBarras.dll
+C:\Users\zS23017379\Documents\CarreraBarras\bin\Debug\net6.0-windows\CarreraBarras.pdb
+C:\Users\zS23017379\Documents\CarreraBarras\obj\Debug\net6.0-windows\CarreraBarras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zS23017379\Documents\CarreraBarras\obj\Debug\net6.0-windows\CarreraBarras.AssemblyInfoInputs.cache
+C:\Users\zS23017379\Documents\CarreraBarras\obj\Debug\net6.0-windows\CarreraBarras.AssemblyInfo.cs
+C:\Users\zS23017379\Documents\CarreraBarras\obj\Debug\net6.0-windows\CarreraBarras.csproj.CoreCompileInputs.cache
+C:\Users\zS23017379\Documents\CarreraBarras\obj\Debug\net6.0-windows\CarreraBarras.dll
+C:\Users\zS23017379\Documents\CarreraBarras\obj\Debug\net6.0-windows\refint\CarreraBarras.dll
+C:\Users\zS23017379\Documents\CarreraBarras\obj\Debug\net6.0-windows\CarreraBarras.pdb
+C:\Users\zS23017379\Documents\CarreraBarras\obj\Debug\net6.0-windows\CarreraBarras.genruntimeconfig.cache
+C:\Users\zS23017379\Documents\CarreraBarras\obj\Debug\net6.0-windows\ref\CarreraBarras.dll
